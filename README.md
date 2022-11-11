@@ -1,7 +1,6 @@
-# linux-projeto1-iac
-Repositório para os arquivos de script do primeiro projeto do bootcamp Linux Experience da DIO.me
+### Repositório para os arquivos de script do primeiro projeto do bootcamp Linux Experience da DIO.me
 
-O shell script **iac01.sh** cria uma estrutura de diretórios, grupos e usuários, associando usuários a grupos específicos e atribuindo permissões dos diretórios criados a grupos específicos.
+O shell script **iac1.sh** cria uma estrutura de diretórios, grupos e usuários, associando usuários a grupos específicos e atribuindo permissões dos diretórios criados a grupos específicos.
 
 ##### Diretórios:
 
